@@ -6,13 +6,11 @@
 
 We read train data from the input.
 
- ![](https://github.com/Fateme-Azizabadi/Recalling-of-Images-using-Hopfield-Neural-Network-Model/blob/main/Images/R.Test.png)
+ ![](https://github.com/Fateme-Azizabadi/Recalling-of-Images-using-Hopfield-Neural-Network-Model/blob/main/Images/Train.png)
 
 We train the Hopfield network. That is, we feed each pattern to the network, obtain the weight matrix and normalize the matrix to improve the results. How to train the network is explained in the code file.
 
 The matrix of weights and network results are given below.
-
- ![](https://github.com/Fateme-Azizabadi/Recalling-of-Images-using-Hopfield-Neural-Network-Model/blob/main/Images/Weight.png)
 
 
  ![](https://github.com/Fateme-Azizabadi/Recalling-of-Images-using-Hopfield-Neural-Network-Model/blob/main/Images/Weight.png)
